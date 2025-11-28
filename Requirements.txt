@@ -1,0 +1,10 @@
+pdfplumber
+pillow
+pytesseract
+openpyxl
+python-docx
+excel2img
+docx2pdf #(optional, depends on OS)
+
+
+#Code for running - "pip install -r requirements.txt"
